@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenusExample</string>
+    <string name="settings">Settings</string>
+    <string name="favorites">Favorites</string>
+    <string name="info">Info</string>
+    <string name="search">Search</string>
+</resources>

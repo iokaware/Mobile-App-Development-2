@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Download Image</string>
+    <string name="ready_to_start">I am ready to start download!</string>
+    <string name="start_download">Start download</string>
+    <string name="downloading">"Downloading…"</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+</resources>

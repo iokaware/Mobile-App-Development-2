@@ -1,0 +1,742 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 534,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "GITRwfip1R4C",
+      "etag": "/0+hNP0fUos",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GITRwfip1R4C",
+      "volumeInfo": {
+        "title": "Romeo and Juliet",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2002-04-25",
+        "description": "Romeo and Juliet is not only one of the most popular of Shakespeare's plays, it is one of the most popular stories in the world. Yet while the play has rarely been off the stage, it has undergone radical transformations in performance. It has been abridged, rewritten, given a happy ending, reset in other times and places, and adapted into other media. While retaining its appeal as a definitive love story, Romeo and Juliet has been a dynamic and unstable performance text, endlessly reinvented to suit differing cultural needs. This edition provides a detailed, thorough and readable account of the play in production. The introduction examines shifts in interpretation, textual adaptations and staging innovations over four centuries of theatrical production. The commentary gives detailed examples of how different performers, from Henry Irving and Ellen Terry to Leonardo DiCaprio and Claire Danes, have brought life and death to Shakespeare's star-crossed lovers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0521667690"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521667692"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GITRwfip1R4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GITRwfip1R4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GITRwfip1R4C&printsec=frontcover&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GITRwfip1R4C&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romeo_and_Juliet.html?hl=&id=GITRwfip1R4C"
+      },
+      "saleInfo": {
+        "country": "PS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PS",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Romeo_and_Juliet-sample-pdf.acsm?id=GITRwfip1R4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GITRwfip1R4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Romeo and Juliet is not only one of the most popular of Shakespeare&#39;s plays, it is one of the most popular stories in the world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "viWNDwAAQBAJ",
+      "etag": "S1FwTWgQT0w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/viWNDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Romeo y Julieta",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "SELECTOR",
+        "description": "Romeo y Julieta, obra célebre de William Shakespeare, narra la historia de dos jóvenes enamorados que, a pesar de la oposición de sus familias, rivales entre sí, deciden casarse clandestinamente; sin embargo, esa rivalidad entre los Montesco y los Capuleto, así como una serie de fatalidades provocan una tragedia inesperada para todos. Este libro nos traslada a Verona, Italia, a finales del siglo XVI, y nos hace sentir esa pasión que se profesan los protagonistas, o el deseo de participar con el Príncipe Escalus y fray Lorenzo en desterrar el odio ancestral que han arrastrado ambas familias y que ha permeado a todo el pueblo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786074536256"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6074536252"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=viWNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=viWNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=viWNDwAAQBAJ&pg=PP1&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=viWNDwAAQBAJ&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romeo_y_Julieta.html?hl=&id=viWNDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PS",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Romeo_y_Julieta-sample-epub.acsm?id=viWNDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Romeo_y_Julieta-sample-pdf.acsm?id=viWNDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=viWNDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Romeo y Julieta, obra célebre de William Shakespeare, narra la historia de dos jóvenes enamorados que, a pesar de la oposición de sus familias, rivales entre sí, deciden casarse clandestinamente; sin embargo, esa rivalidad entre los ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hQXRlyIakVIC",
+      "etag": "+ajwwfOqQpA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hQXRlyIakVIC",
+      "volumeInfo": {
+        "title": "Romeo and Juliet for Kids",
+        "authors": [
+          "Lois Burdett",
+          "William Shakespeare"
+        ],
+        "publisher": "Firefly Books",
+        "publishedDate": "1998",
+        "description": "Written in rhyming couplets and suitable for staging in the classroom, this guide to \"Romeo and Juliet\" makes learning Shakespeare fun for youngsters.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1552092291"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781552092293"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "categories": [
+          "Children's plays"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hQXRlyIakVIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hQXRlyIakVIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hQXRlyIakVIC&printsec=frontcover&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=hQXRlyIakVIC&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romeo_and_Juliet_for_Kids.html?hl=&id=hQXRlyIakVIC"
+      },
+      "saleInfo": {
+        "country": "PS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PS",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Romeo_and_Juliet_for_Kids-sample-pdf.acsm?id=hQXRlyIakVIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hQXRlyIakVIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written in rhyming couplets and suitable for staging in the classroom, this guide to &quot;Romeo and Juliet&quot; makes learning Shakespeare fun for youngsters."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wuitDQAAQBAJ",
+      "etag": "v8OEJ36WqTM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wuitDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Romeo and Juliet (Norton Critical Editions)",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2016-10-15",
+        "description": "This much-anticipated Norton Critical Edition of Shakespeare’s best-known play is based on the Second Quarto, widely agreed to be the most authoritative early text. By carefully selecting extracts from sources, scholars, and scriptwriters, Gordon McMullan tells a series of stories about Romeo and Juliet, globally and from their legend's origins to the present day. The Norton Critical Edition includes: · Introductory materials and explanatory annotations by Gordon McMullan as well as numerous images. · Sources and early rewritings by Luigi Da Porto, Matteo Bandello, Pierre Boaistuau, Kareen Seidler, and Thomas Otway, among others. · Critical readings and later rewritings spanning four centuries and including those by Stanley Wells, Wendy Wall, Dympna C. Callaghan, Jill L. Levenson, Nia?h Cusack, David Tennant, and Courtney Lehmann. · A Selected Bibliography.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393523249"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393523241"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 318,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wuitDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wuitDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wuitDQAAQBAJ&printsec=frontcover&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wuitDQAAQBAJ&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romeo_and_Juliet_Norton_Critical_Edition.html?hl=&id=wuitDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PS",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Romeo_and_Juliet_Norton_Critical_Edition-sample-epub.acsm?id=wuitDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wuitDQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Norton Critical Edition includes: · Introductory materials and explanatory annotations by Gordon McMullan as well as numerous images. · Sources and early rewritings by Luigi Da Porto, Matteo Bandello, Pierre Boaistuau, Kareen Seidler, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4KRuyAEACAAJ",
+      "etag": "ycvBBgy06CY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4KRuyAEACAAJ",
+      "volumeInfo": {
+        "title": "Romeo and Juliet",
+        "subtitle": "Official Student Edition with Annotations",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publishedDate": "2019-08-11",
+        "description": "Make Shakespeare easier with this student edition featuring Verse by Verse summary and glossary. Romeo and Juliet tells the story of an age-old vendetta between two powerful families erupts into bloodshed. A group of masked Montague's risk further conflict by gatecrashing a Capulet party. A young lovesick Romeo Montague falls instantly in love with Juliet Capulet, who is due to marry her father's choice, the County Paris. With the help of Juliet's nurse, the women arrange for the couple to marry the next day, but Romeo's attempt to halt a street fight leads to the death of Juliet's own cousin, Tybalt, for which Romeo is banished. In a desperate attempt to be reunited with Romeo, Juliet follows the Friar's plot and fakes her own death. The message fails to reach Romeo, and believing Juliet dead, he takes his life in her tomb. Juliet wakes to find Romeo's corpse beside her and kills herself. The grieving family agree to end their feud.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1089734204"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781089734208"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4KRuyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4KRuyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4KRuyAEACAAJ&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4KRuyAEACAAJ&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romeo_and_Juliet.html?hl=&id=4KRuyAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PS",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4KRuyAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Make Shakespeare easier with this student edition featuring Verse by Verse summary and glossary. Romeo and Juliet tells the story of an age-old vendetta between two powerful families erupts into bloodshed."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "75SgoAEACAAJ",
+      "etag": "iEVMLwLZqTk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/75SgoAEACAAJ",
+      "volumeInfo": {
+        "title": "Romeo and Juliet",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "W W Norton & Company Incorporated",
+        "publishedDate": "2017",
+        "description": "By carefully selecting extracts from sources, scholars, and scriptwriters, Gordon McMullan tells a series of stories about Romeo and Juliet, globally and from their legend's origins to the present day.The Norton Critical Edition includes:� Introductory materials and explanatory annotations by Gordon McMullan as well as numerous images.� Sources and early rewritings by Luigi Da Porto, Matteo Bandello, Pierre Boaistuau, Kareen Seidler, and Thomas Otway, among others.� Critical readings and later rewritings spanning four centuries and including those by Stanley Wells, Wendy Wall, Dympna C. Callaghan, Jill L. Levenson, Nia'h Cusack, David Tennant, and Courtney Lehmann.� A Selected Bibliography.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0393926265"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393926262"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 412,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=75SgoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=75SgoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=75SgoAEACAAJ&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=75SgoAEACAAJ&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romeo_and_Juliet.html?hl=&id=75SgoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PS",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=75SgoAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Norton Critical Edition includes: - Introductory materials and explanatory annotations by Gordon McMullan as well as numerous images."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T5GBPgAACAAJ",
+      "etag": "n5baIrGpKZY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T5GBPgAACAAJ",
+      "volumeInfo": {
+        "title": "Romeo And Juliet",
+        "subtitle": "Third Series",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Bloomsbury Arden Shakespeare",
+        "publishedDate": "2012-07-15",
+        "description": "This major new edition of Shakespeare's greatest tragedy of love argues that the play is ultimately Juliet's. It's richly illustrated introduction looks at the play's exceptionally beautiful and complex language and focuses on the figure of Juliet as being at its center. Rene Weis also discusses the play's critical, stage, and film history, including West Side Story and Baz Lurhmann's seminal film adaptation. This authoritative edition from a leading scholar gives the reader a penetrating and wide-ranging insight into this ever-popular play. Like every Arden edition, it includes expertly edited play text and on-page commentary notes discussing issues of staging, theme, meaning, and Shakespeare's use of his sources to give the reader deep and engaging insights into the play.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1903436915"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781903436912"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 350,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T5GBPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T5GBPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=T5GBPgAACAAJ&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=T5GBPgAACAAJ&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romeo_And_Juliet.html?hl=&id=T5GBPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "PS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PS",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T5GBPgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This major new edition of Shakespeare&#39;s greatest tragedy of love argues that the play is ultimately Juliet&#39;s."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jab9oAEACAAJ",
+      "etag": "iewM9HHGCB0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jab9oAEACAAJ",
+      "volumeInfo": {
+        "title": "Romeo & Juliet",
+        "authors": [
+          "William Shakespeare",
+          "Susan Franz"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2014-05-08",
+        "description": "The Beautiful Reader's Editions presents William Shakespeare's Romeo and Juliet with gorgeous illustrations and easy-to-read typography. This volume delights the eye and lovingly frames the poetic beauty of the classic play. The text is a restored version of the 1599 2nd Quarto. The 2nd Quarto was considered the first \"good\" published version of Romeo and Juliet and was printed during Shakespeare's lifetime. Verses that had wandered away over the centuries have been given their proper place. Jokes that blushing Victorian hands edited or removed have been brought back to their full baudy glory. This is both the play you know and love, and a play you have never read before. The book is a reader's paradise and cleans away much of the traditional academic fluff and detritis. It focuses on the rich humor and poetic jewels of the brilliant original and avoids, as far as possible, pedantic literary selfies inserted by nervous, pre-tenure dons and donas. It is the perfect gift for the bardophile in your life and will be a treasured addition to any library.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1499399405"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781499399400"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 238,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 110,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jab9oAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jab9oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Jab9oAEACAAJ&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Jab9oAEACAAJ&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romeo_Juliet.html?hl=&id=Jab9oAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PS",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jab9oAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This volume delights the eye and lovingly frames the poetic beauty of the classic play. The text is a restored version of the 1599 2nd Quarto."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FYTFDAAAQBAJ",
+      "etag": "hpdvrsXMX2A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FYTFDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Romeo and Juliet",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Pan Macmillan",
+        "publishedDate": "2016-08-23",
+        "description": "Shakespeare's most beloved and tragic love story packaged in a pocket-sized hardback and fully illustrated throughout by Sir John Gilbert, with an introduction by Ned Halley.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781909621855"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1909621854"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 106,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FYTFDAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FYTFDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FYTFDAAAQBAJ&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FYTFDAAAQBAJ&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romeo_and_Juliet.html?hl=&id=FYTFDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PS",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FYTFDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Shakespeare&#39;s most beloved and tragic love story packaged in a pocket-sized hardback and fully illustrated throughout by Sir John Gilbert, with an introduction by Ned Halley. &#39;O Romeo, Romeo, wherefore art thou Romeo?&#39;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HBuZMYzbb3IC",
+      "etag": "6CSFE5/J3vw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HBuZMYzbb3IC",
+      "volumeInfo": {
+        "title": "Romeo & Juliet",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "2005",
+        "description": "Oxford School Shakespeare is an acclaimed edition especially designed for students, with accessible on-page notes and explanatory illustrations, clear background information, and rigorous but accessible scholarly credentials. In this edition of Romeo and Juliet, illustrations have beenextended and updated; the preliminary notes have been expanded; reading lists have been updated, and include websites; and the classroom notes have been brought in line with recent practice. Romeo and Juliet is a set text for 11-14 year olds in England and remains one of the most accessible andpopular of Shakespeare's plays for secondary students the world over.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "019832149X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780198321491"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Juliet (Fictitious character)"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HBuZMYzbb3IC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HBuZMYzbb3IC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HBuZMYzbb3IC&q=Romeo+and+Juliet&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=HBuZMYzbb3IC&dq=Romeo+and+Juliet&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romeo_Juliet.html?hl=&id=HBuZMYzbb3IC"
+      },
+      "saleInfo": {
+        "country": "PS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PS",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HBuZMYzbb3IC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this edition of Romeo and Juliet, illustrations have beenextended and updated; the preliminary notes have been expanded; reading lists have been updated, and include websites; and the classroom notes have been brought in line with recent ..."
+      }
+    }
+  ]
+}

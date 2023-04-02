@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">واجهات مستخدم مثالية</string>
+    <string name="name">الاسم</string>
+    <string name="login">تسجيل الدخول</string>
+</resources>
